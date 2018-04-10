@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Computer Science on Το Χωριό Παλιό</title>
+    <link>https://xoriopalio.github.io/tags/computer-science/</link>
+    <description>Recent content in Computer Science on Το Χωριό Παλιό</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xoriopalio.github.io/tags/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peer-to-Peer Electronic Cash System</title>
+      <link>https://xoriopalio.github.io/post/p2p-econimy/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/p2p-econimy/</guid>
+      <description> https://bitcoin.org/bitcoin.pdf https://en.wikipedia.org/wiki/Peer-to-peer http://xmodulo.com/configure-peer-to-peer-vpn-linux.html https://en.wikipedia.org/wiki/Virtual_private_network -  </description>
+    </item>
+    
+    <item>
+      <title>Peer-to-Peer Electronic Cash System</title>
+      <link>https://xoriopalio.github.io/post/p2p-economy/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/p2p-economy/</guid>
+      <description> https://bitcoin.org/bitcoin.pdf https://en.wikipedia.org/wiki/Peer-to-peer http://xmodulo.com/configure-peer-to-peer-vpn-linux.html https://en.wikipedia.org/wiki/Virtual_private_network -  </description>
+    </item>
+    
+  </channel>
+</rss>

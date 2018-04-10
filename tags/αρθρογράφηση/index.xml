@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Αρθρογράφηση on Το Χωριό Παλιό</title>
+    <link>https://xoriopalio.github.io/tags/%CE%B1%CF%81%CE%B8%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7/</link>
+    <description>Recent content in Αρθρογράφηση on Το Χωριό Παλιό</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <lastBuildDate>Fri, 30 Oct 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xoriopalio.github.io/tags/%CE%B1%CF%81%CE%B8%CF%81%CE%BF%CE%B3%CF%81%CE%AC%CF%86%CE%B7%CF%83%CE%B7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Farmbot</title>
+      <link>https://xoriopalio.github.io/post/farmbot/</link>
+      <pubDate>Fri, 30 Oct 2015 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/farmbot/</guid>
+      <description>Στο πλαίσιο καθημερινής εξάσκησης στον γραπτό λόγο, θα κρητικάρω σήμερα το Farmbot. Πρόκειται για μια CNC1 μηχανή που φυτεύει, ποτιζει, μετράει και διαχειρίζεται με λίγα λόγια ένα κομμάτι γης. Αουάου! Παρατηρόντας την ημερήσια κατανομή του χρόνου ενός μέσου δυτικού άνθρωπου, διαπιστώνουμε οτι η ενασχόληση με τον υπολογιστή κερδίζει έδαφος συνεχώς. Και πες οτι αύτος ο άνθρωπος θέλει να βάλει ένα κήπο και να τρώει ζαρζαβατικά που παράγει. Ο κόσμος των μηχανών σε σύμπραξημε τον καπιταλισμό έχει το τυράκι για να σε παραμυθιάσει.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Το Χωριό Παλιό</title>
+    <link>https://xoriopalio.github.io/post/</link>
+    <description>Recent content in Posts on Το Χωριό Παλιό</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <lastBuildDate>Sat, 24 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://xoriopalio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Peer-to-Peer Electronic Cash System</title>
+      <link>https://xoriopalio.github.io/post/p2p-econimy/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/p2p-econimy/</guid>
+      <description> https://bitcoin.org/bitcoin.pdf https://en.wikipedia.org/wiki/Peer-to-peer http://xmodulo.com/configure-peer-to-peer-vpn-linux.html https://en.wikipedia.org/wiki/Virtual_private_network -  </description>
+    </item>
+    
+    <item>
+      <title>Peer-to-Peer Electronic Cash System</title>
+      <link>https://xoriopalio.github.io/post/p2p-economy/</link>
+      <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/p2p-economy/</guid>
+      <description> https://bitcoin.org/bitcoin.pdf https://en.wikipedia.org/wiki/Peer-to-peer http://xmodulo.com/configure-peer-to-peer-vpn-linux.html https://en.wikipedia.org/wiki/Virtual_private_network -  </description>
+    </item>
+    
+    <item>
+      <title>Αρνίσια Κεμπάπ</title>
+      <link>https://xoriopalio.github.io/post/arnisia-kebap/</link>
+      <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/arnisia-kebap/</guid>
+      <description> 1&amp;frasl;2 κιλό κιμά 2 κρεμμύδια 2 σκόρδα 1&amp;frasl;2 καυτερή πιπεριά 2 κ.σ. ελαιόλαδο 1 κ.σ. λεμόνι 1 κ.σ φρεσκοτριμμένο τζίντερ 1 κ.γ. κύμινο 1&amp;frasl;4 κ.γ. κοπανιστό κόλιανδρο 1&amp;frasl;2 κ.γ. θυμάρι 1&amp;frasl;2 φρέσκια ντομάτα ώριμη τριμμένη αλάτι πιπέρι κόκκινο πιπέρι 1 αυγό 1&amp;frasl;4 τριμμένη φρυγανιιά ή 1 φέτα ψωμί Ψυγείο 3 ώρες  </description>
+    </item>
+    
+    <item>
+      <title>Άρμεγμα</title>
+      <link>https://xoriopalio.github.io/post/armegma/</link>
+      <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/armegma/</guid>
+      <description>[2017-12-09 Sat]  Άρχισε πάλι το άρμεγμα. Πρώτα αρμέγουμε την Ντολόρες η οποία έχει σκληρά μαστάρια και θέλει δεύτερο πέρασμα. Δεν ξεχνάμε να τραγαδούμε πάντα κατα την ώρα του αρμέγματος. Η Ντολόρες προτειμάει λατινόφωνο ρεπερτόριο. Στη συνέχεια έχουμε την Κάνα και Αράβικο Σεμαΐ και ακολουθούν Λιάρα και Μία με ανοιχτό ρεπερτότιο. Μωρομάντηλα για καθάρισμα των μασταριών :P. [2016-05-12 Thu]  Μια βδομάδα μετά, άρμεγμα μόνο το πρωί [2016-05-04 Wed]  Ύστερα απο ένα μήνα άρμεγμα λέω σιγά σιγά να το σταματήσω.</description>
+    </item>
+    
+    <item>
+      <title>Αρχείο</title>
+      <link>https://xoriopalio.github.io/post/archive/</link>
+      <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/archive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Λέξεις Κλειδιά</title>
+      <link>https://xoriopalio.github.io/post/tagcloud/</link>
+      <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
+      <guid>https://xoriopalio.github.io/post/tagcloud/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
