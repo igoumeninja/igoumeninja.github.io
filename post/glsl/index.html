@@ -5,9 +5,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
 
-  <title>Αρχείο</title>
-  <meta property="og:title" content="Αρχείο" />
-  <meta name="twitter:title" content="Αρχείο" />
+  <title>glsl</title>
+  <meta property="og:title" content="glsl" />
+  <meta name="twitter:title" content="glsl" />
+  <meta name="description" content="langunagae design consideration (opengl® shading language - randi j. rost) - The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe - reading opengl shading lang. book - variables: - fragment processor - Demos  
+langunagae design consideration (opengl® shading language - randi j. rost) in the past few years, semiconductor technology has progressed to the point where the levels of computation that can be done per vertex or per fragment have gone beyond what is feasible to describe by the traditional opengl mechanisms of setting state to influence the action of fixed pipeline stages.">
+  <meta property="og:description" content="langunagae design consideration (opengl® shading language - randi j. rost) - The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe - reading opengl shading lang. book - variables: - fragment processor - Demos  
+langunagae design consideration (opengl® shading language - randi j. rost) in the past few years, semiconductor technology has progressed to the point where the levels of computation that can be done per vertex or per fragment have gone beyond what is feasible to describe by the traditional opengl mechanisms of setting state to influence the action of fixed pipeline stages.">
+  <meta name="twitter:description" content="langunagae design consideration (opengl® shading language - randi j. rost) - The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe - reading opengl shading lang. book - variables: - fragment …">
   <meta name="author" content="Aris Bezas"/>
   <link href='https://igoumeninja.github.io/static/favicon.ico' rel='icon' type='image/x-icon'/>
   <meta property="og:image" content="https://igoumeninja.github.io/img/avatar-icon.png" />
@@ -15,12 +20,12 @@
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@igoumeninja" />
   <meta name="twitter:creator" content="@igoumeninja" />
-  <meta property="og:url" content="https://igoumeninja.github.io/post/archive/" />
+  <meta property="og:url" content="https://igoumeninja.github.io/post/glsl/" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="igoumeninja" />
 
   <meta name="generator" content="Hugo 0.38.2" />
-  <link rel="canonical" href="https://igoumeninja.github.io/post/archive/" />
+  <link rel="canonical" href="https://igoumeninja.github.io/post/glsl/" />
   <link rel="alternate" href="https://igoumeninja.github.io/index.xml" type="application/rss+xml" title="igoumeninja">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.7.1/katex.min.css" integrity="sha384-wITovz90syo1dJWVh32uuETPVEtGigN07tkttEqPv+uR2SE/mbQcG7ATL28aI9H0" crossorigin="anonymous">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
@@ -139,9 +144,15 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
-            <div class="archive-heading">
-              <h1>Αρχείο</h1>
+            <div class="post-heading">
+              <h1>glsl</h1>
                 
+                
+                  <span class="post-meta">
+
+  
+</span>
+
                 
             </div>
           </div>
@@ -152,38 +163,113 @@
 
 
     
-<div role="main" class="container">
+<div class="container" role="main">
   <div class="row">
     <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <article role="main" class="blog-post">
+        
+
+<ul>
+<li><a href="#orgaf2db40">langunagae design consideration (opengl® shading language - randi j. rost)</a>
+    - <a href="#orgf4f1e45">The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe</a>
+    - <a href="#orge0e6120">reading <a href="file:///users/fou/igoumeninja/tools/glsl/books/">opengl shading lang. book</a></a>
+      - <a href="#orgeb5e1b9">variables:</a>
+      - <a href="#orgd7d6b35">fragment processor</a>
+    - <a href="#org8bf66ab">Demos</a></li>
+</ul>
+
+<p><a id="orgaf2db40"></a></p>
+
+<h1 id="langunagae-design-consideration-opengl-shading-language-randi-j-rost">langunagae design consideration (opengl® shading language - randi j. rost)</h1>
+
+<p>in the past few years, semiconductor technology has progressed to the point where the levels of computation that can be done per vertex or per fragment have gone beyond what is feasible to describe by the traditional opengl mechanisms of setting state to influence the action of fixed pipeline stages. a natural way of taming this complexity and the proliferation of opengl extensions is to allow parts of the pipeline to be replaced by user programmable stages. this has been done in some recent opengl extensions but the programming is done in assembly language. by definition, assembly languages are hardware-specific, so going down this path would lead software developers to create code that is hardware- or vendor-specific and that might not even run on future generations of graphics hardware.</p>
+
+<p><a id="orgf4f1e45"></a></p>
+
+<h1 id="the-book-of-shaders-by-patricio-gonzalez-vivo-and-jen-lowe">The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe</h1>
+
+<ul>
+<li><a href="https://thebookofshaders.com/">https://thebookofshaders.com/</a></li>
+</ul>
+
+<p><a id="orge0e6120"></a></p>
+
+<h1 id="reading-opengl-shading-lang-book-file-users-fou-igoumeninja-tools-glsl-books">reading <a href="file:///users/fou/igoumeninja/tools/glsl/books/">opengl shading lang. book</a></h1>
+
+<p><a id="orgeb5e1b9"></a></p>
+
+<h2 id="variables">variables:</h2>
+
+<ol>
+<li>attribute: define in a vertex shader and represent values that are passed from the application to the vertex processor. it&rsquo;s permite only as part of a vertex shader.</li>
+<li>uniform: passing data values from the application to either the vertex processor or the fragment processor. a shader can be written so that it ie parametrized using uniform variables.</li>
+<li>varying: define data that is passed from the vertex processor to the fragment processor.</li>
+</ol>
+
+<p><a id="orgd7d6b35"></a></p>
+
+<h2 id="fragment-processor">fragment processor</h2>
+
+<p>a fragment shader cannot change a fragment x/y position.</p>
+
+<ul>
+<li>operations on interpolated values</li>
+<li>texture access</li>
+<li>texture application</li>
+<li>fog</li>
+<li>color sum</li>
+<li>pixel zoom</li>
+<li>scale and bias</li>
+<li>color table lookup</li>
+<li>convolution</li>
+<li>color matrix</li>
+</ul>
+
+<p><a id="org8bf66ab"></a></p>
+
+<h1 id="demos">Demos</h1>
+
+<ul>
+<li><a href="http://youtu.be/WzpLWzGvFK4">Live voyage through a collection of low-level and advanced GPU</a> <span class="timestamp-wrapper"><span class="timestamp">&lt;2015-04-30 Πεμ&gt;</span></span></li>
+<li><a href="https://www.youtube.com/watch?v=4iwQAqgG1uI">https://www.youtube.com/watch?v=4iwQAqgG1uI</a></li>
+</ul>
+
+      </article>
+      
+      <span class="post-meta">
+        
+        #<a href="https://igoumeninja.github.io/tags/glsl/">glsl</a>&nbsp;
+        
+      </span>
+      
+      
+        
+          <div class="disqus-comments">
+            <div id="disqus_thread"></div>
+<script>
+    var disqus_config = function () {
+    
+    
+    
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "xoriopalio-gitlab-io" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+          </div>
+        
+        
       
 
-      <div class="site-wrap">
-        <div class="post p2 p-responsive wrap" role="main">
-          <div class="measure">
-            <ul class="tags">
-              
-              <li><a href="https://igoumeninja.github.io/post/glsl/">glsl</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/sygkalliergies/">Συγκαλλιέργειες</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/p2p-econimy/">Peer-to-Peer Electronic Cash System</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/p2p-economy/">Peer-to-Peer Electronic Cash System</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/arnisia-kebap/">Αρνίσια Κεμπάπ</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/plasto/">Πλαστό</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/armegma/">Άρμεγμα</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/archive/">Αρχείο</a></li>
-              
-              <li><a href="https://igoumeninja.github.io/post/tagcloud/">Λέξεις Κλειδιά</a></li>
-              
-            </ul>
-          </div>
-        </div>
-      </div>
     </div>
   </div>
 </div>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Glsl on igoumeninja</title>
+    <link>https://igoumeninja.github.io/tags/glsl/</link>
+    <description>Recent content in Glsl on igoumeninja</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>igoumeninja@gmail.com (Aris Bezas)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris Bezas)</webMaster>
+    <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://igoumeninja.github.io/tags/glsl/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>glsl</title>
+      <link>https://igoumeninja.github.io/post/glsl/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/post/glsl/</guid>
+      <description>langunagae design consideration (opengl® shading language - randi j. rost) - The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe - reading opengl shading lang. book - variables: - fragment processor - Demos  
+langunagae design consideration (opengl® shading language - randi j. rost) in the past few years, semiconductor technology has progressed to the point where the levels of computation that can be done per vertex or per fragment have gone beyond what is feasible to describe by the traditional opengl mechanisms of setting state to influence the action of fixed pipeline stages.</description>
+    </item>
+    
+  </channel>
+</rss>

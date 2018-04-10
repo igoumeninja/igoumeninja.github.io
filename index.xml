@@ -13,6 +13,16 @@
     
     
     <item>
+      <title>glsl</title>
+      <link>https://igoumeninja.github.io/post/glsl/</link>
+      <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/post/glsl/</guid>
+      <description>langunagae design consideration (opengl® shading language - randi j. rost) - The Book of Shaders by Patricio Gonzalez Vivo and Jen Lowe - reading opengl shading lang. book - variables: - fragment processor - Demos  
+langunagae design consideration (opengl® shading language - randi j. rost) in the past few years, semiconductor technology has progressed to the point where the levels of computation that can be done per vertex or per fragment have gone beyond what is feasible to describe by the traditional opengl mechanisms of setting state to influence the action of fixed pipeline stages.</description>
+    </item>
+    
+    <item>
       <title>Συγκαλλιέργειες</title>
       <link>https://igoumeninja.github.io/post/sygkalliergies/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
