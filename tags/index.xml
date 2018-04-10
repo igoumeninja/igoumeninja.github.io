@@ -1,104 +1,104 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Το Χωριό Παλιό</title>
-    <link>https://xoriopalio.github.io/tags/</link>
-    <description>Recent content in Tags on Το Χωριό Παλιό</description>
+    <title>Tags on igoumeninja</title>
+    <link>https://igoumeninja.github.io/tags/</link>
+    <description>Recent content in Tags on igoumeninja</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <managingEditor>igoumeninja@gmail.com (Aris Bezas)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris Bezas)</webMaster>
     <lastBuildDate>Tue, 10 Apr 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xoriopalio.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igoumeninja.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://xoriopalio.github.io/tags/</link>
+      <link>https://igoumeninja.github.io/tags/</link>
       <pubDate>Tue, 10 Apr 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Archive</title>
-      <link>https://xoriopalio.github.io/tags/archive/</link>
+      <link>https://igoumeninja.github.io/tags/archive/</link>
       <pubDate>Tue, 03 Oct 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/archive/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/archive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer Science</title>
-      <link>https://xoriopalio.github.io/tags/computer-science/</link>
+      <link>https://igoumeninja.github.io/tags/computer-science/</link>
       <pubDate>Sat, 24 Mar 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/computer-science/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/computer-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tag Cloud</title>
-      <link>https://xoriopalio.github.io/tags/tag-cloud/</link>
+      <link>https://igoumeninja.github.io/tags/tag-cloud/</link>
       <pubDate>Fri, 22 Sep 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/tag-cloud/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/tag-cloud/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Άρμεγμα</title>
-      <link>https://xoriopalio.github.io/tags/%CE%AC%CF%81%CE%BC%CE%B5%CE%B3%CE%BC%CE%B1/</link>
+      <link>https://igoumeninja.github.io/tags/%CE%AC%CF%81%CE%BC%CE%B5%CE%B3%CE%BC%CE%B1/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CE%AC%CF%81%CE%BC%CE%B5%CE%B3%CE%BC%CE%B1/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CE%AC%CF%81%CE%BC%CE%B5%CE%B3%CE%BC%CE%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Κηπουρική</title>
-      <link>https://xoriopalio.github.io/tags/%CE%BA%CE%B7%CF%80%CE%BF%CF%85%CF%81%CE%B9%CE%BA%CE%AE/</link>
+      <link>https://igoumeninja.github.io/tags/%CE%BA%CE%B7%CF%80%CE%BF%CF%85%CF%81%CE%B9%CE%BA%CE%AE/</link>
       <pubDate>Sun, 08 Apr 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CE%BA%CE%B7%CF%80%CE%BF%CF%85%CF%81%CE%B9%CE%BA%CE%AE/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CE%BA%CE%B7%CF%80%CE%BF%CF%85%CF%81%CE%B9%CE%BA%CE%AE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Κρέατα</title>
-      <link>https://xoriopalio.github.io/tags/%CE%BA%CF%81%CE%AD%CE%B1%CF%84%CE%B1/</link>
+      <link>https://igoumeninja.github.io/tags/%CE%BA%CF%81%CE%AD%CE%B1%CF%84%CE%B1/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CE%BA%CF%81%CE%AD%CE%B1%CF%84%CE%B1/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CE%BA%CF%81%CE%AD%CE%B1%CF%84%CE%B1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Μαγειρική</title>
-      <link>https://xoriopalio.github.io/tags/%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%AE/</link>
+      <link>https://igoumeninja.github.io/tags/%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%AE/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%AE/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CE%BC%CE%B1%CE%B3%CE%B5%CE%B9%CF%81%CE%B9%CE%BA%CE%AE/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Πίτες</title>
-      <link>https://xoriopalio.github.io/tags/%CF%80%CE%AF%CF%84%CE%B5%CF%82/</link>
+      <link>https://igoumeninja.github.io/tags/%CF%80%CE%AF%CF%84%CE%B5%CF%82/</link>
       <pubDate>Sat, 13 Jan 2018 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CF%80%CE%AF%CF%84%CE%B5%CF%82/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CF%80%CE%AF%CF%84%CE%B5%CF%82/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Πρόβατα</title>
-      <link>https://xoriopalio.github.io/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</link>
+      <link>https://igoumeninja.github.io/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</link>
       <pubDate>Sat, 09 Dec 2017 00:00:00 +0000</pubDate>
-      <author>igoumeninja@gmail.com (Aris &amp; Katerina)</author>
-      <guid>https://xoriopalio.github.io/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</guid>
+      <author>igoumeninja@gmail.com (Aris Bezas)</author>
+      <guid>https://igoumeninja.github.io/tags/%CF%80%CF%81%CF%8C%CE%B2%CE%B1%CF%84%CE%B1/</guid>
       <description></description>
     </item>
     

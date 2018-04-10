@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Το Χωριό Παλιό</title>
-    <link>https://xoriopalio.github.io/categories/</link>
-    <description>Recent content in Categories on Το Χωριό Παλιό</description>
+    <title>Categories on igoumeninja</title>
+    <link>https://igoumeninja.github.io/categories/</link>
+    <description>Recent content in Categories on igoumeninja</description>
     <generator>Hugo -- gohugo.io</generator>
-    <managingEditor>igoumeninja@gmail.com (Aris &amp; Katerina)</managingEditor>
-    <webMaster>igoumeninja@gmail.com (Aris &amp; Katerina)</webMaster>
+    <managingEditor>igoumeninja@gmail.com (Aris Bezas)</managingEditor>
+    <webMaster>igoumeninja@gmail.com (Aris Bezas)</webMaster>
     
-	<atom:link href="https://xoriopalio.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://igoumeninja.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
